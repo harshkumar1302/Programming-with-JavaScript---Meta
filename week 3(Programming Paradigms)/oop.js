@@ -1,4 +1,16 @@
 // Object-oriented Programming Paradigms
+/*  
+    The Benefits of OOP
+         Allows you to write modular code,
+         Makes your code more flexible and
+         Makes your code reusable.
+    
+    Principle Of OOP
+        Inheritance
+        Encapsulation
+        Abstraction
+        Polymorphism     
+*/
 
 // write some code that calculate the total cost of buying a pair of shoes.
 
